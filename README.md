@@ -8,4 +8,10 @@ Para prever o local e o tempo, você experimentará um modelo base de árvore, c
 R >= 4.2
 RStudio ou outra IDE com suporte ao R
 
+## Estrutura do projeto
+
+* **data**: Diretório como conjunto dados
+* **outputs**: Diretório  onde será armazenado os artefatos gerados como plots, modelos, etc
+* **R**: Diretório com funções auxiliares e helpers
+
 ## Colaborando
